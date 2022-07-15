@@ -5,9 +5,10 @@ body {
 	background-color: gray;
     color: #fff;
 	font-family: 'Roboto', sans-serif;
+	text-align: justify;
+	
 
 }
-
 
 .menu {
 	width: 100%;
@@ -19,7 +20,7 @@ body {
 	font-weight: bold;
 	padding: 20px;
 	position: relative;
-   
+	
 	
 	
     
