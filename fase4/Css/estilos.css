@@ -1,0 +1,30 @@
+
+
+body {
+    font-size: large;
+	background-color: gray;
+    color: #fff;
+	font-family: 'Roboto', sans-serif;
+	text-align: justify;
+	
+
+}
+
+.menu {
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	padding: 40px 0;
+    border-radius: 10px;
+	min-height: 200px;
+	font-weight: bold;
+	padding: 20px;
+	position: relative;
+	   
+}
+
+.pie {
+	font-size: 24px;
+	padding: 20px 0;
+	
+}
