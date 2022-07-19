@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+
+ table, tr, td{             
+    border: 1px solid black;
+    
+}
+   
+tr,td{
+    padding: 15px;
+}
+
+tr{
+    text-align: left;
+}
+
+table{
+    background-color: gray;
+    text-transform: uppercase;
+    font-family: monospace;
+    height: max-content;
+    width: max-content;
+    table-layout: unset;
+    position: static;
+    overflow: visible;
+    float: inline-start;
+
+}
